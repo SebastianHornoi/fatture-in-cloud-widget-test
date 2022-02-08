@@ -1,5 +1,5 @@
 # KeepFit app
-<img src="https://github.com/SebastianHornoi/react-KeepFit-app/blob/master/public/img/keepFit.png" />
+<img src="https://github.com/SebastianHornoi/fatture-in-cloud-widget-test/blob/master/public/fatture%20widget.png" />
 
 ### Obiettivo proggetto: 
 Realizzare un widget che mostra un resoconto sull'andamenti dei vari mesi dell'anno.

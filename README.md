@@ -1,4 +1,4 @@
-# KeepFit app
+# Mounth recap widget
 <img src="https://github.com/SebastianHornoi/fatture-in-cloud-widget-test/blob/master/public/fatture%20widget.png" />
 
 ### Obiettivo proggetto: 
